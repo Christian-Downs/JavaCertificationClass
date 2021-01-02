@@ -1,0 +1,22 @@
+1. Select all fields from the employees table whose salary is less than or equal to $52,500 
+
+2. Select unique Emails of people who work as IT_PROG.
+
+3. Display details of all Employees who work in Dept 100 or 30.
+
+4. Display FirstName, LastName and Salary of all Employees who do not work in department 100.
+
+5. Display EmployeeID, Email and HireDate of all employees hired in the month of July in 1987.
+
+6. Display all unique jobs present in the company.
+
+7. Display the 5 highest paid employees in the company.
+
+8. Display all details of Employees who work under manager with ID 108.
+
+9. Display full names of Employees who work in Dept 30 and earn more than 3000$
+
+10. Display Firstname and email of all Employees who earn between 3,000 - 6,000$
+
+
+

@@ -1,0 +1,21 @@
+Write SQL Queries for the following:
+
+1. Display all information of the employee table.
+
+2. Write a SQL statement to display a string "This is SQL Practice"
+
+3. Write a query to display the result of an arithmetic expression. 
+
+4. Write a SQL statement to display specific columns like name and commission for all the employees. 
+
+5. Write a query to display the columns in a specific order like First_Name, Salary, Email and Job_Id
+
+6. Write a query which will retrieve all manager_ID without any repeats.
+
+7. Write a query to retrieve all information of top 5 employees in the table.
+
+8. Display employees sorted in ascending order by their last names.
+
+9. Write a query which will retrieve all Job_Id without any repeats.
+
+10. Display all information of the employee table, display HIRE_DATE as HIRE DATE
